@@ -15,8 +15,6 @@ public class Main {
 
 			in.mostrartext("peasdasd");
 			in.mostrartext("me gusta el pan");
-
-			in.mostrartext("perro");
 	}
 	
 }
