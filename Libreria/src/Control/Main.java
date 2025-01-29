@@ -17,7 +17,7 @@ public class Main {
 			in.mostrartext("me gusta el pano");
 			in.mostrartext("perroconpan");
 			in.mostrartext("pan");
-			in.mostrartext("esto lo modifico jose");
+			in.mostrartext("ahora lo modifico juan jjeje");
 	}
 
 	
