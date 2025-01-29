@@ -12,6 +12,7 @@ public class Main {
 			in.mostrartext("Hello wolrd");
 		}
 		else 
-			in.mostrartext("Hola soy jose");
+			in.mostrartext("perrohp");
 	}
+	
 }
