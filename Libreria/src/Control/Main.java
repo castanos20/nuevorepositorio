@@ -12,7 +12,8 @@ public class Main {
 			in.mostrartext("Hello wolrd");
 		}
 		else 
-			in.mostrartext("perrohp");
+			in.mostrartext("peasdasd");
+			in.mostrartext("me gusta el pan");
 	}
 	
 }
