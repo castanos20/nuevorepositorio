@@ -14,7 +14,7 @@ public class Main {
 		else 
 
 			in.mostrartext("peasdasd");
-			in.mostrartext("me gusta el pan");
+			in.mostrartext("me gusta el pano");
 	}
 	
 }
