@@ -14,7 +14,11 @@ public class Main {
 		else 
 
 			in.mostrartext("peasdasd");
+<<<<<<< HEAD
 			in.mostrartext("me gusta el pano");
+=======
+			in.mostrartext("me gusta el");
+>>>>>>> 506838ca42d8eba28e30a03fc481e9106747ea85
 	}
 	
 }
