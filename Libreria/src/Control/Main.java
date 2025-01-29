@@ -12,7 +12,7 @@ public class Main {
 			in.mostrartext("Hello wolrd");
 		}
 		else 
-			in.mostrartext("perrohp");
+			in.mostrartext("perro");
 	}
 	
 }
