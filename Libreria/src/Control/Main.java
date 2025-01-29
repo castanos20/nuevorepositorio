@@ -12,12 +12,11 @@ public class Main {
 			in.mostrartext("Hello wolrd");
 		}
 		else 
-<<<<<<< HEAD
+
 			in.mostrartext("peasdasd");
 			in.mostrartext("me gusta el pan");
-=======
+
 			in.mostrartext("perro");
->>>>>>> 76c22d2e0cb0e3226f91fa8f6e8dfab12f82a8f6
 	}
 	
 }
