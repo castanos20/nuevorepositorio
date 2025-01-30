@@ -9,7 +9,7 @@ public class Main {
 		in.mostrartext("Ingrese 1 o 2");
 		int a = in.pedirint(null);
 		if(a==1) {
-			in.mostrartext("Hello wolrd");
+			in.mostrartext("HI Juan");
 		}
 		else 
 
